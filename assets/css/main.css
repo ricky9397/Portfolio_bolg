@@ -29,13 +29,29 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.project_imgMain{
+	width: 100%;
+	height: 50%;
+}
+.font_size2{
+	font-size: 1.5em;
+}
+.p_font{
+	text-align: left;
+}
+
+.font_size{
+	font-weight: 400;
+}
 .java_img{
 	width: 38%;
 	border-radius: 10%;
 }	
 .spring_img{
 	width: 56%;
-
+}
+.jspsevlet_img{
+	width: 45%;
 }
 
 body {
